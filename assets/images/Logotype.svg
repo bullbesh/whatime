@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="whatime.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0762433"
+     inkscape:cx="184.70861"
+     inkscape:cy="190.96991"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="font-variation-settings:'wght' 400;fill:#0055d4;stroke-width:15;stroke-linecap:square;paint-order:markers stroke fill"
+       id="path972"
+       cx="50"
+       cy="50"
+       rx="44.965"
+       ry="44.9645" />
+    <rect
+       style="font-variation-settings:'wght' 400;fill:#ffffff;stroke-width:14.9999;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect1222"
+       width="8.6520004"
+       height="42.032585"
+       x="-54.32592"
+       y="14.022413"
+       ry="4.3260002"
+       rx="4.3260002"
+       transform="scale(-1,1)" />
+    <rect
+       style="font-variation-settings:'wght' 400;fill:#ffffff;stroke-width:14.9999;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect1117"
+       width="8.6520004"
+       height="27.61511"
+       x="-76.290245"
+       y="-22.000095"
+       ry="4.3260002"
+       rx="4.3260002"
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+  </g>
+</svg>
