@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
