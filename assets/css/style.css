@@ -1,5 +1,5 @@
 body {
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -23,5 +23,5 @@ body {
 .title {
     margin-left: 20px;
     display: flex;
-    align-items: center
+    align-items: center;
 }
