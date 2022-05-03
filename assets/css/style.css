@@ -1,5 +1,7 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
+    margin: 0;
+    padding: 0;
 }
 
 *,
@@ -8,15 +10,18 @@ body {
     box-sizing: border-box;
 }
 
-.container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
+.header {
+    display: flex;
+    background-color: lightgrey;
+    font-size: xx-large;
+    max-width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 
-.timer {
+.title {
+    margin-left: 20px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    align-items: center
 }
