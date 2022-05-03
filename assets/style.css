@@ -26,7 +26,13 @@ body {
     align-items: center;
 }
 
-.footer {
-    background-color: beige;
-    
+footer {
+    background: lightgrey;
+    padding-top: 10px;
+}
+
+footer h3 {
+    color: #0894d1;
+    letter-spacing: 1px;
+    margin: 30px 0 20px;
 }
