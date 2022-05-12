@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    background-color: #f2f2f2;
 }
 
 *,
@@ -15,26 +16,22 @@ body {
 }
 
 header {
-    display: flex;
-    background-color: lightgrey;
-    font-size: xx-large;
+    background-color: #FEEBEF;
     max-width: 100%;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    display: flex;
+
+    align-items: center;
+    padding: 15px;
+}
+
+header > h2 {
     padding-left: 20px;
 }
 
-title {
-    margin-left: 20px;
-    display: flex;
-    align-items: center;
-}
 
 footer {
-    background: lightgrey;
+    background: #FEEBEF;
     margin-top: auto;
-    padding: 10px;
-    width: 100%;
     text-align: center;
 }
 
