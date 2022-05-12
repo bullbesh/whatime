@@ -29,6 +29,19 @@ header > h2 {
 }
 
 
+.main_block {
+    background-color: #fff;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.time {
+    font-size: 100px;
+    padding: 100px;
+    margin: auto;
+}
+
+
 footer {
     background: #FEEBEF;
     margin-top: auto;
