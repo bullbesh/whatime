@@ -18,10 +18,13 @@
         </h2>
     </header>
 
+
     <div class="main_block">
-        <p class="time">
-            01/03/2048
-        </p>
+        <p><span id="datetime"></span></p>
+        <script>
+            var dt = new Date();
+            document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
+        </script>
     </div>
 
     <footer>

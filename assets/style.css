@@ -33,6 +33,9 @@ header > h2 {
     background-color: #fff;
     margin: auto;
     border-radius: 20px;
+    display: block;
+    padding: 60px;
+    font-size: 80px;
 }
 
 .time {
