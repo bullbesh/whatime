@@ -28,26 +28,17 @@ header > h2 {
     padding-left: 20px;
 }
 
-
 .main_block {
     background-color: #fff;
     margin: auto;
     border-radius: 20px;
-    display: block;
-    padding: 60px;
-    font-size: 80px;
+    display: flex;
+    padding: 40px;
+    font-size: 50px;
 }
-
-.time {
-    font-size: 100px;
-    padding: 100px;
-    margin: auto;
-}
-
 
 footer {
     background: #FEEBEF;
     margin-top: auto;
     text-align: center;
 }
-
